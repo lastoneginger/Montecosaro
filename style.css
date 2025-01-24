@@ -9,11 +9,15 @@
     background-color: #cccccc;
 }
 .img-logos {
-    width: 9rem;
+    width: 10rem;
 }
 .card-body-2 {
     margin: 1rem;
 }
 .title-proyecto {
     margin: 1.5rem;
+}
+footer {
+    margin-bottom: 0;
+    padding: 3rem 0 3rem 0;
 }
