@@ -8,6 +8,10 @@ body {
   color: rgb(var(--bs-tertiary-color-rgb));
 }
 
+footer {
+  background-color: #1678bd;
+  color: white;
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
